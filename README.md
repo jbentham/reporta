@@ -1,7 +1,7 @@
 # reporta
 Graphical display of ARM CPU activity, using PyQt and pure Python to drive an SWD interface.
 
-!(https://github.com/jbentham/reporta/reporta.png)
+![](./reporta.png?raw=true "reporta display")
 
 This project is described in detail in [the Iosoft blog](https://iosoft.blog/reporta)
 
